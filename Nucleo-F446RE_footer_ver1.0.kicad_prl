@@ -64,8 +64,14 @@
       39,
       40
     ],
-    "visible_layers": "ff012ff_7ffffffe",
+    "visible_layers": "ff012ef_ffffffff",
     "zone_display_mode": 0
+  },
+  "git": {
+    "repo_password": "",
+    "repo_type": "",
+    "repo_username": "",
+    "ssh_key": ""
   },
   "meta": {
     "filename": "Nucleo-F446RE_footer_ver1.0.kicad_prl",
